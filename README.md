@@ -11,3 +11,6 @@ Timeseries forex forecaster prototyping using `tensoflow` library.
 6. N-BEATS algorithm
 7. Simple Ensemble model
 8. Ensemble model with LSTM multivariate
+
+------------------
+9. LSTM seq2seq
