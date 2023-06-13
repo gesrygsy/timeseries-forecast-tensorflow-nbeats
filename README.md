@@ -1,6 +1,7 @@
 # Timeseries forecast prototyping with tensorflow
 
 Timeseries forex forecaster prototyping using `tensoflow` library.
+
 0. Naive model
 1. Simple Dense model
 2. Simple Conv1D model
